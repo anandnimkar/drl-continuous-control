@@ -1,1 +1,5 @@
 .idea
+*.log
+reacher
+.ipynb_checkpoints
+*.sh
